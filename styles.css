@@ -2,7 +2,7 @@
     background-image:url(/WhatsApp\ Image\ 2024-11-22\ at\ 21.18.51_4d005dc5.jpg);
     margin: 0;
     padding: 0;
-    
+
 }
 
 
@@ -16,13 +16,14 @@
 
 .custom-heading {
     position: absolute;
-      top: 50%;
-      left: 50%;
+      top: 60%;
+      left: 60%;
       transform: translate(-50%, -50%);
       color: yellow;
       font-size: 36px; 
       font-weight: bold;
       text-align: center;
+
 
 
     
